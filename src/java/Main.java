@@ -11,7 +11,7 @@ import org.hibernate.cfg.Configuration;
 
 /**
  * Class --> Main
- * @author praveenbhatt
+ * @author nakulmitra
  *
  */
 public class Main {
